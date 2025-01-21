@@ -1,0 +1,11 @@
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\bin\Debug\net9.0\CompartirDatos.deps.json
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\bin\Debug\net9.0\CompartirDatos.dll
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\bin\Debug\net9.0\CompartirDatos.pdb
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\obj\Debug\net9.0\CompartirDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\obj\Debug\net9.0\CompartirDatos.AssemblyInfoInputs.cache
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\obj\Debug\net9.0\CompartirDatos.AssemblyInfo.cs
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\obj\Debug\net9.0\CompartirDatos.csproj.CoreCompileInputs.cache
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\obj\Debug\net9.0\CompartirDatos.dll
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\obj\Debug\net9.0\refint\CompartirDatos.dll
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\obj\Debug\net9.0\CompartirDatos.pdb
+C:\Users\Moise\source\repos\Solution1\CompartirDatos\obj\Debug\net9.0\ref\CompartirDatos.dll
